@@ -35,6 +35,7 @@ int main()
 	printf("%d/%d", a, c);
 
 	return 0;
+
 }
 
 
